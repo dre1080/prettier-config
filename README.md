@@ -10,13 +10,13 @@ Install [prettier](https://prettier.io/) and `@dre1080/prettier-config`:
 
 **With Yarn**
 
-```
+```sh
 $ yarn add --dev prettier @dre1080/prettier-config
 ```
 
 **With npm**
 
-```
+```sh
 $ npm install prettier @dre1080/prettier-config --save-dev
 ```
 
@@ -24,7 +24,7 @@ $ npm install prettier @dre1080/prettier-config --save-dev
 
 Add the `prettier` key to your `package.json`
 
-```
+```json
 "prettier": "@dre1080/prettier-config"
 ```
 
