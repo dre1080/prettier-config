@@ -1,7 +1,7 @@
 {
   "name": "@dre1080/prettier-config",
   "version": "1.0.0",
-  "description": "Sharable Prettier config for Nuxt projects",
+  "description": "Sharable Prettier config for projects",
   "author": "Andrew Wayne <lifeandcoding@gmail.com>",
   "homepage": "https://github.com/dre1080/prettier-config",
   "repository": "dre1080/prettier-config",
@@ -9,5 +9,8 @@
   "main": "index.js",
   "keywords": [
     "prettier"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
 }
