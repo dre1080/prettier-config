@@ -7,10 +7,10 @@
   "repository": "dre1080/prettier-config",
   "license": "MIT",
   "main": "index.js",
-  "keywords": [
-    "prettier"
-  ],
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "prettier-plugin-svelte": "^0.7.0"
   }
 }

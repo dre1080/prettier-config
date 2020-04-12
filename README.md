@@ -22,10 +22,16 @@ $ npm install prettier @dre1080/prettier-config --save-dev
 
 ## Usage
 
-Add the `prettier` key to your `package.json`
+Add the `prettier` key to your `package.json`:
 
 ```json
 "prettier": "@dre1080/prettier-config"
+```
+
+For [Svelte](https://svelte.dev):
+
+```json
+"prettier": "@dre1080/prettier-config/svelte"
 ```
 
 [Check out the `prettier` documentation for more info on sharing configurations](https://prettier.io/docs/en/configuration.html#sharing-configurations).
