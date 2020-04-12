@@ -1,7 +1,7 @@
 {
   "name": "@dre1080/prettier-config",
   "version": "1.0.1",
-  "description": "Sharable Prettier config for projects",
+  "description": "Sharable Prettier config",
   "author": "Andrew Wayne <lifeandcoding@gmail.com>",
   "homepage": "https://github.com/dre1080/prettier-config",
   "repository": "dre1080/prettier-config",
