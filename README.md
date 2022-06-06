@@ -28,10 +28,12 @@ Add the `prettier` key to your `package.json`:
 "prettier": "@dre1080/prettier-config"
 ```
 
-For [Svelte](https://svelte.dev):
+or create a `.prettierrc.js` with the following contents:
 
-```json
-"prettier": "@dre1080/prettier-config/svelte"
+```js
+module.exports = {
+  ...require("@dre1080/prettier-config"),
+};
 ```
 
 [Check out the `prettier` documentation for more info on sharing configurations](https://prettier.io/docs/en/configuration.html#sharing-configurations).

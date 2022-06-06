@@ -1,6 +1,6 @@
 {
   "name": "@dre1080/prettier-config",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Sharable Prettier config",
   "author": "Andrew Wayne <lifeandcoding@gmail.com>",
   "homepage": "https://github.com/dre1080/prettier-config",
@@ -11,6 +11,6 @@
     "access": "public"
   },
   "dependencies": {
-    "prettier-plugin-svelte": "^0.7.0"
+    "prettier-plugin-tailwind": "^2.2.0"
   }
 }
